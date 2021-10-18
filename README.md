@@ -1,4 +1,6 @@
-# Data Parser
+<h1 align="center">
+Data Parser
+</h1>
 
 ## Table of Contents
 
