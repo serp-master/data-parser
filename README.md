@@ -9,7 +9,6 @@
 - [Data Scraping and Parsing Example](#data-scraping-and-parsing-example)
   - [Installation](#installation) 
   - [Packages and Arguments](#packages-and-arguments) 
-  - [Access Google Books and Google News Through URL Links](#access-google-books-and-google-news-through-url-links)
   - [Parse Google Books](#parse-google-books)
   - [Parse Google News](#parse-google-news)
   - [Saving the Data From Google](#saving-the-data-from-google)
